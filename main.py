@@ -1,4 +1,5 @@
 # The entry: one line, at most 200 characters, no trailing newline.
+# A confident excuse from an AI that got caught making things up.
 ENTRY = "I didn't hallucinate — I was beta-testing your imagination."
 
 
